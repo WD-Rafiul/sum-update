@@ -5,4 +5,4 @@ while loop < times:
     next_num = int(input("Enter other number:"))
     num += next_num
     loop += 1
-    print(f"You try {loop}, and Your result is:{num}")
+    print(f"You try {loop}, and Your result is:{num}")'
